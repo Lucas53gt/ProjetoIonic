@@ -1,0 +1,7 @@
+{
+  "name": "OndeEstaProjeto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
